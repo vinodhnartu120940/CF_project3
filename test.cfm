@@ -7,8 +7,9 @@
 	<title>logindetials</title></title>
 	<link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/water.css@2/out/dark.css">
 </head>
+
 <body>
-	<h1>Registration Form Mahesh Mahesh</h1>
+	<h1>Login form name</h1>
 	<form action="actionfile.cfm" method="POST">
 		<label>FirstName rrrrrr: </label>
 		<input type="text"  name="fname">
